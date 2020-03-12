@@ -1,7 +1,10 @@
 # 005-NodeJs-CRUDapi
 
-# Project setup:
+## Project setup
+```
 npm install
-
-# Project start:
+```
+## Project start
+```
 npm run dev
+```
